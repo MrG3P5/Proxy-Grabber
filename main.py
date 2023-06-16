@@ -11,7 +11,6 @@ from datetime import datetime
 from pytz import timezone
 import pyfiglet
 import os
-import requests
 
 __dir__: Path = Path(__file__).parent
 init(autoreset=True)
