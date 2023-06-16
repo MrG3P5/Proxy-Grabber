@@ -1,0 +1,4 @@
+git+https://github.com/MHProDev/PyRoxy.git
+pyfiglet
+requests
+pytz
